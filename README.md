@@ -1,0 +1,1 @@
+I decided to do this year's challenges in [Uiua](https://uiua.org).
